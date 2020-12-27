@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+
+  <h1>MENU</h1>
+
+    <div class="row">
+        <div class="col-lg-3 col-md-6" id="one"><h2>Chicken</h2><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore quaerat deserunt sed velit perferendis. Dicta, alias quo? Eius, nemo! Voluptas eligendi provident adipisci nesciunt sint dolores illum architecto ullam quisquam.</p></div>
+        <div class="col-lg-3 col-md-6" id="two"><h3>Beef</h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia suscipit doloremque eos accusamus consequatur maiores incidunt perferendis, consequuntur ea ipsa eveniet ex reiciendis impedit laudantium, et a. Minima, earum quos.</p></div>
+        <div class="col-lg-3 col-md-6" id="thre"><h4>Sushi</h4><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique autem soluta ad molestias, quidem aliquid sed reprehenderit ullam sit id eos ex. Sequi sit voluptatum voluptatibus neque blanditiis vero nisi.</p></div>
+    </div>
+
+</body>
+</html>
